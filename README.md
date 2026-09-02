@@ -192,21 +192,6 @@ No build process or package installation is required.
 
 You can also host the file as a static page using GitHub Pages or another approved internal static-web platform.
 
-## Suggested Repository Structure
-
-```text
-consentfix-soc-simulator/
-├── ConsentFix_SOC_User_Page_Simulation.html
-├── README.md
-├── LICENSE
-└── screenshots/
-    ├── lure-page.png
-    ├── microsoft-sign-in-simulation.png
-    ├── localhost-callback.png
-    └── soc-telemetry.png
-```
-
-The `screenshots` directory is optional but useful for the GitHub project page and internal training material.
 
 ## Security Design
 
